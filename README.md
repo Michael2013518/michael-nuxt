@@ -1,4 +1,4 @@
-# test
+# Nuxt - Vue SSR
 
 > My fabulous Nuxt.js project
 
